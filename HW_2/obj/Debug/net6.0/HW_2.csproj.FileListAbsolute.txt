@@ -1,0 +1,45 @@
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\bin\Debug\net6.0\HW_2.exe
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\bin\Debug\net6.0\HW_2.deps.json
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\bin\Debug\net6.0\HW_2.runtimeconfig.json
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\bin\Debug\net6.0\HW_2.dll
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\bin\Debug\net6.0\HW_2.pdb
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.dll
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\refint\HW_2.dll
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.pdb
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\HW_2.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\C# HW\HW 2\HW_2\obj\Debug\net6.0\ref\HW_2.dll
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.dll
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\refint\HW_2.dll
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.pdb
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\bin\Debug\net6.0\HW_2.exe
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\bin\Debug\net6.0\HW_2.deps.json
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\bin\Debug\net6.0\HW_2.runtimeconfig.json
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\bin\Debug\net6.0\HW_2.dll
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\bin\Debug\net6.0\HW_2.pdb
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\HW_2.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\C# Polytech\2. Объектно-ориентированное программирование в C#\HW_2\obj\Debug\net6.0\ref\HW_2.dll
+C:\Users\amura\Desktop\HW_2\bin\Debug\net6.0\HW_2.exe
+C:\Users\amura\Desktop\HW_2\bin\Debug\net6.0\HW_2.deps.json
+C:\Users\amura\Desktop\HW_2\bin\Debug\net6.0\HW_2.runtimeconfig.json
+C:\Users\amura\Desktop\HW_2\bin\Debug\net6.0\HW_2.dll
+C:\Users\amura\Desktop\HW_2\bin\Debug\net6.0\HW_2.pdb
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.csproj.AssemblyReference.cache
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.AssemblyInfoInputs.cache
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.AssemblyInfo.cs
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.csproj.CoreCompileInputs.cache
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.dll
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\refint\HW_2.dll
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.pdb
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\HW_2.genruntimeconfig.cache
+C:\Users\amura\Desktop\HW_2\obj\Debug\net6.0\ref\HW_2.dll
